@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tourism-plan-/static/css/main.034ba1b1.css",
+    "main.js": "/tourism-plan-/static/js/main.4de8b872.js",
+    "static/js/453.3af1e8b6.chunk.js": "/tourism-plan-/static/js/453.3af1e8b6.chunk.js",
+    "index.html": "/tourism-plan-/index.html",
+    "main.034ba1b1.css.map": "/tourism-plan-/static/css/main.034ba1b1.css.map",
+    "main.4de8b872.js.map": "/tourism-plan-/static/js/main.4de8b872.js.map",
+    "453.3af1e8b6.chunk.js.map": "/tourism-plan-/static/js/453.3af1e8b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.034ba1b1.css",
+    "static/js/main.4de8b872.js"
+  ]
+}
